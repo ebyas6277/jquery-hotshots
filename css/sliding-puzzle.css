@@ -1,0 +1,46 @@
+﻿body 
+{
+}
+
+#puzzle
+{
+    width:820px;
+    padding:5px;
+    margin:auto;
+    border:1px solid #aaa;
+    border-radius:5px;
+    background-color:#eee;
+}
+
+#puzzle figure
+{
+    width:600px; 
+    height:850px; 
+    border:1px solid #aaa;
+    position:relative;
+    float:left;
+    background-color:#fff;
+}
+
+#ui 
+{
+   padding:10px 0 0 10px;
+   float:left;
+}
+
+#ui button
+{
+    margin-bottom: 2em;
+}
+
+#ui p
+{
+    font-size:1.7em;
+}
+
+#start
+{
+    width:204px;
+    height:50px;
+    font-size:1.75em;
+}
